@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #523634;
+    color: #ddc5a2;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    gap: 16px;
+    background-color: #b6452c;
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 8px;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    margin: 40px 0;
+}
+
+.title {
+    margin: 20px 0;
+}
